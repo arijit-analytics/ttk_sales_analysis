@@ -1,6 +1,6 @@
 # 📊 Sales & Field Performance Analytics Dashboard (Confidential Project)
 
-> **⚠️ Disclaimer**: This project is based on real sales operations data analyzed during my tenure at a healthcare company. Due to confidentiality, only the structure, SQL logic, and Tableau visual design are included — no sensitive company information is exposed.
+
 
 ---
 
