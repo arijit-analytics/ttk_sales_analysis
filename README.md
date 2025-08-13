@@ -1,4 +1,4 @@
-# 📊 Sales & Field Performance Analytics Dashboard (Confidential Project)
+# 📊 Sales & Field Performance Analytics Dashboard 
 
 
 
